@@ -12,11 +12,11 @@ const app = getApp()
 // onUnload 页面卸载
 Page({
   data: {
-    motto: 'Hello doge b🐶d ',
+    motto: 'Hello 🐶 ',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo'),
-    sysInfo:'totsai'
+    sysInfo:''
   },
   //事件处理函数
   bindViewTap: function() {
