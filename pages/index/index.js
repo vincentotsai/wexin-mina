@@ -12,7 +12,7 @@ const app = getApp()
 // onUnload 页面卸载
 Page({
   data: {
-    motto: 'Hello World',
+    motto: 'Hello doge b🐶d ',
     userInfo: {},
     hasUserInfo: false,
     canIUse: wx.canIUse('button.open-type.getUserInfo'),

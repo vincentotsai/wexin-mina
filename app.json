@@ -17,10 +17,14 @@
     "list": [
       {
         "pagePath": "pages/index/index",
+        "iconPath": "image/wechat.png",
+        "selectedIconPath": "image/wechatHL.png",
         "text": "主页"
       },
       {
         "pagePath": "pages/logs/logs",
+        "iconPath": "image/wechat.png",
+        "selectedIconPath": "image/wechatHL.png",
         "text": "日志"
       }
     ]
@@ -30,5 +34,6 @@
     "connectSocket": 10000,
     "uploadFile": 10000,
     "downloadFile": 10000
-  }
+  },
+  "debug": true
 }
